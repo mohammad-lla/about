@@ -1,0 +1,4 @@
+<Directory "C:\Users\Saeed\Desktop\about me\assets\scss">
+    Order deny,allow
+    Deny from all
+</Directory>
